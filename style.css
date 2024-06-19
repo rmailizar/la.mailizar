@@ -161,6 +161,9 @@
 }
 
 /* footer */
+#contact {
+    background-color: #543310;
+}
 .footer a{
     text-decoration: none;
     color: white;
