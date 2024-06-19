@@ -11,7 +11,7 @@
 
 
 .nav-color {
-    background-color: red;
+    background-color: #543310;
     transition: all ease-in-out .3s;
 }
 
@@ -162,7 +162,7 @@
 
 /* footer */
 #contact {
-    background-color: #543310;
+    background-color: #000;
 }
 .footer a{
     text-decoration: none;
